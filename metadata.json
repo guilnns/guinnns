@@ -1,0 +1,6 @@
+{
+  "name": "Nike Basketball Store",
+  "description": "Uma vitrine interativa premium para escolher e comprar os melhores tênis de basquete da Nike.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
